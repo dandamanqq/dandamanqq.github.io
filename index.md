@@ -9,6 +9,7 @@ It reads [markdown](https://www.markdownguide.org/) and turns it into html.
 ---
 
 # **Markdown Conventions**
+# [Log File](https://dandamanqq.github.io/Log)
 ## **Favourite Academic Work:**
 
 I, Daniel Totev am currently enrolled in Computer Science and I am in fourth
